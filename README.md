@@ -1,17 +1,35 @@
 # Dotfiles-T4n_OS
 Configuration Window Manager(X11 &amp; wayland) and Desktop Environment(X11 &amp; Wayland)
 
+---
+
 ### BSPWM
-[BSPWM](https://github.com/gh0st4n/Dotfiles-T4n_OS/tree/bspwm)
+- URL : [BSPWM](https://github.com/gh0st4n/Dotfiles-T4n_OS/tree/bspwm)
+
+**Keybindings**
+
+---
 
 ### XFCE4
-[XFCE4](https://github.com/gh0st4n/Dotfiles-T4n_OS/tree/xfce4)
+- URL : [XFCE4](https://github.com/gh0st4n/Dotfiles-T4n_OS/tree/xfce4)
+
+**Keybindings**
+
+---
 
 ### RiverWM
-[RiverWM](https://github.com/gh0st4n/Dotfiles-T4n_OS/tree/river)
+- URL : [RiverWM](https://github.com/gh0st4n/Dotfiles-T4n_OS/tree/river)
+
+**Keybindings**
+
+---
 
 ### KDE
-[KDE](https://github.com/gh0st4n/Dotfiles-T4n_OS/tree/kde)
+- URL : [KDE](https://github.com/gh0st4n/Dotfiles-T4n_OS/tree/kde)
+
+**Keybindings**
+
+---
 
 #### Or Use script shell
 ```
