@@ -1,0 +1,12 @@
+#!/usr/bin/sh
+
+muted="$(pactl get-source-mute @DEFAULT_SOURCE@ | awk '{print $2}')"
+
+if [ "$muted" = "yes" ]; then
+    echo "󰍭"
+else
+    echo "󰍬"
+fi
+
+[ "$1" = "toggle" ] && pactl set-source-mute @DEFAULT_SOURCE@ toggle
+
